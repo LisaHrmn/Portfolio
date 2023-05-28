@@ -18,7 +18,7 @@ function About() {
                         <motion.div
                             whileHover={{ scale: 1.1 }}
                             whileTap={{ scale: 0.9 }}>
-                            <a href={require('../img/Portfolio_LisaHuurman_EN.pdf')} target="_blank"><button className='alt-btn'>Resume<i class="fa-solid fa-arrow-right"></i></button></a>
+                            <a href={require('../img/Portfolio_LisaHuurman_EN.pdf')} target="_blank" rel="noreferrer"><button className='alt-btn'>Resume<i class="fa-solid fa-arrow-right"></i></button></a>
                         </motion.div>
                     </div>
                 </div>
