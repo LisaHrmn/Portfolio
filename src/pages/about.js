@@ -18,12 +18,12 @@ function About() {
                         <motion.div
                             whileHover={{ scale: 1.1 }}
                             whileTap={{ scale: 0.9 }}>
-                            <a href={require('../img/Portfolio_LisaHuurman_EN.pdf')} target="_blank" rel="noreferrer"><button className='alt-btn'>Resume<i class="fa-solid fa-arrow-right"></i></button></a>
+                            <a href={require('../img/Portfolio_LisaHuurman_EN.pdf')} target="_blank" rel="noreferrer" alt="link to resume"><button className='alt-btn' aria-label='button to cv'>Resume<i class="fa-solid fa-arrow-right"></i></button></a>
                         </motion.div>
                     </div>
                 </div>
                 <div className='about-main-img'>
-                    <img src={require("../img/Lisa.png")} alt='Lisa profile'></img>
+                    <img src={require("../img/Lisa.png")} alt='Lisa profile image'></img>
                 </div>
             </div>
         </div>

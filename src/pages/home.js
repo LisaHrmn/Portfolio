@@ -42,19 +42,19 @@ function Home() {
                     <motion.div
                       whileHover={{ scale: 1.1 }}
                       whileTap={{ scale: 0.9 }}>
-                        <button onClick={() => navigate("/about")} className='alt-btn'>About me<i class="fa-solid fa-arrow-right"></i></button>
+                        <button onClick={() => navigate("/about")} className='alt-btn' aria-label='button to about me page'>About me<i class="fa-solid fa-arrow-right"></i></button>
                     </motion.div>
                   </div>
                   <div className='alt-btn-con home-alt-btn'>
                     <motion.div
                       whileHover={{ scale: 1.1 }}
                       whileTap={{ scale: 0.9 }}>
-                        <button onClick={() => navigate("/contact")} className='alt-btn'>Contact me<i class="fa-solid fa-arrow-right"></i></button>
+                        <button onClick={() => navigate("/contact")} className='alt-btn' aria-label='button to contact page'>Contact me<i class="fa-solid fa-arrow-right"></i></button>
                     </motion.div>
                   </div>
               </div>
               <div className='b-btn'>
-                <button onClick={() => navigate("/portfolio")} classname='hover-btn'>My work</button>
+                <button onClick={() => navigate("/portfolio")} classname='hover-btn' aria-label='button to portfolio page'>My work</button>
               </div>
             </div>
             </MouseParallaxContainer>
