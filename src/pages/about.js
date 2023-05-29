@@ -23,7 +23,7 @@ function About() {
                     </div>
                 </div>
                 <div className='about-main-img'> 
-                    <img src={require("../img/Lisa.png")} alt='Lisa profile image'></img>
+                    <img src={require("../img/Lisa.png")} alt='Profile Lisa'></img>
                 </div>
             </div>
         </div>
