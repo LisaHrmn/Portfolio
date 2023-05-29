@@ -22,7 +22,7 @@ function About() {
                         </motion.div>
                     </div>
                 </div>
-                <div className='about-main-img'>
+                <div className='about-main-img'> 
                     <img src={require("../img/Lisa.png")} alt='Lisa profile image'></img>
                 </div>
             </div>
