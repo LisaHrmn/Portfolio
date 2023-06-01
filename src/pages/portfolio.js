@@ -80,10 +80,7 @@ function Portfolio() {
                 portlogolink1="https://tweedruppelswater.netlify.app/"
                 portlogo2="fa-brands fa-square-github fa-2x"
                 portlogoalt2="github logo link to github"
-                portlogolink2="https://github.com/Wazup2You/AlsTweeDruppelsWater/tree/main/frontend"
-                portlogo3="fa-solid fa-circle-info fa-2x"
-                portlogoalt3="information logo with link to more information about the project"
-                portlogolink3="https://wandwonepager.netlify.app/"
+                portlogolink2="https://gitfront.io/r/user-7131756/nNvnk6iPWRb4/AlsTweeDruppelsWater-main/"
                 />
                 <Portfolioitem 
                 portmainlink="https://github.com/LisaHrmn/languagemodel"
