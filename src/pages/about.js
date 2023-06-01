@@ -12,7 +12,7 @@ function About() {
                     <p>Hi, I'm Lisa! I love creative and accessible design but what I love even more is realizing these designs as a developer. 
                         I am currently in my fourth and last year of studying Creative Media and Game Technologies at Rotterdam University of Applied Sciences where I learn the full agile process of web- app- and game development.
                         I have experience in multiple programming languages ranging from HTML, CSS, JavaScript and libraries as React.js to programming in Unity and Unreal Engine with C# and C++.
-                        I am a team player and I strive to learn ass much as possible and make an impact with my work. 
+                        I am a team player and I strive to learn as much as possible and make an impact with my work. 
                         </p>
                     <div className='alt-btn-con'>
                         <motion.div
